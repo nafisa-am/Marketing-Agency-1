@@ -201,9 +201,3 @@ p {
 .footer h4 {
   font-size: 16px;
 }
-
-@media screen and (width: 750) {
-  .header div {
-    width: 100%;
-  }
-}
